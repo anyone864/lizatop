@@ -13,9 +13,6 @@ div {
 
 .photoCat {
     width: 300px;
-    position: relative;
-    left: 750px;
-    bottom: 80px;
     border: 10px solid white;
     border-radius: 25px;
 }
@@ -29,9 +26,6 @@ div {
 
 .aboutMe {
     width: 400px;
-    position: relative;
-    bottom: 200px;
-    right: 150px;
     background-color: aliceblue;
     padding: 30px;
     margin: 20px;
