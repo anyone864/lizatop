@@ -1,0 +1,43 @@
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: inline-block;
+}
+
+.photo {
+    width: 250px;
+}
+
+.photoCat {
+    width: 300px;
+    position: relative;
+    left: 750px;
+    bottom: 80px;
+    border: 10px solid white;
+    border-radius: 25px;
+}
+
+.photoBlock {
+    position: relative;
+    width: 270px;
+    border: 10px outset black;
+    height: 458px;
+}
+
+.aboutMe {
+    width: 400px;
+    position: relative;
+    bottom: 200px;
+    right: 150px;
+    background-color: aliceblue;
+    padding: 30px;
+    margin: 20px;
+    border: solid;
+    border-radius: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
